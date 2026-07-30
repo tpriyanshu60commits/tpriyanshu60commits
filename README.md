@@ -54,19 +54,6 @@ A Full Stack Food Ordering Platform built using React.js, Node.js, Express.js an
 
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tpriyanshu60commits&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpriyanshu60commits&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
